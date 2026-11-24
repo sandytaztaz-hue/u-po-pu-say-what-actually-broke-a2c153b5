@@ -9,7 +9,7 @@ A single line of software error copy for make.fun's "Say What Actually Broke" bo
 ## Run it
 
 ```sh
-node main.mjs
+node main.ts
 ```
 
 ---
